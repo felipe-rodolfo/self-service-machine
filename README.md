@@ -9,7 +9,7 @@ Este é um projeto simples de Self Service Order construído em Vue.js. Ele foi 
 
 ## Como Usar
 Clone o repositório para o seu ambiente local:
-`git clone [https://seu-repositorio/self-service-order.git](https://github.com/felipe-rodolfo/self-service-machine.git)`
+`git clone https://github.com/felipe-rodolfo/self-service-machine.git`
 Abra o arquivo index.html em um navegador web compatível.
 
 ## Estrutura do Projeto
